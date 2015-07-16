@@ -1,0 +1,17 @@
+body {
+	background-image: url("plate.png");
+	background-repeat: no-repeat;
+	background-size: 710px;
+	background-position: center;
+	background-color: #00FF00;	
+}
+
+p {
+	font-size:20px;
+	font-family: Times New Roman;
+}
+
+h1 {
+	font-size:100px;
+	font-family: Times New Roman;
+}
